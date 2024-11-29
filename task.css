@@ -1,0 +1,512 @@
+body{
+  overflow:hidden;
+  padding:0px;
+  margin:0px;
+  overflow-y: auto;
+}
+.body{
+  
+}
+
+
+
+::-webkit-scrollbar{
+  color: black;
+}
+
+
+
+
+.sidebar{
+  border:1.1px solid rgb(185, 182, 182);
+  border-radius:30px;
+  height: 700px;
+  width: 100px;
+  position: fixed;
+}
+.div1{
+  overflow-y: auto;
+  border: 1px solid rgb(185, 182, 182);
+  background-color:rgb(255, 244, 244);;
+  margin-left:130px;
+  position: fixed;
+  border-radius:30px;
+  height: 700px;
+  width: 450px;
+  font-family: sans-serif;
+}
+::-webkit-scrollbar{
+  color: black;
+}
+.maindiv{
+  display: flex;
+  justify-content: space-around;
+  font-family: sans-serif;
+  color: white;
+  /* display: block; */
+}
+.div2{
+  height:230px;
+  width: 430px;
+  background-color: rgb(13, 182, 139);
+  border: 1px solid rgb(236, 232, 232);
+  border-radius:30px;
+  margin-left: 600px
+  
+}
+
+  .div3{
+    height:230px;
+    width: 430px;
+    box-shadow: 1px 1px 5px 5px rgb(238, 237, 237);
+    border-radius:30px;
+    color: black;
+   
+   
+}
+.div4{
+  height:550px;
+    width: 900px;
+  box-shadow: 1px 1px 1px 3px rgb(238, 237, 237);
+    border-radius:30px;
+    color: black;
+    margin-left:600px ;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+.sidebar_home{
+  height: 40px;
+  width: 40px;
+  border: 1px solid orange;
+  background-color: rgb(255, 230, 197);
+  
+  border-radius:5px ;
+  margin-top:120px;
+  margin-left:25px;
+}
+.logo1{
+  margin-top:30px;
+  margin-left:25px;
+  
+}
+.logo2{
+  margin-top:30;
+  margin-left:25px;
+  
+}
+
+
+
+.sidebar_logo{
+  margin-left:5px;
+  margin-top:50px;
+}
+.Total{
+  display: flex;
+ 
+}.h2{
+margin-left: 25px;
+margin-top: 30px;
+color: rgb(39, 37, 37);
+font-size:20px;
+}
+.img_next{
+  margin-left: 250px;
+  margin-top:27px;
+}.p_tag{
+  color: rgb(99, 98, 98);
+  margin-left: 25px ;
+  margin-top:-20px ;
+  font-size:15px ;
+}
+.leader1{
+  height: 120px;
+  width: 400px;
+  border-radius:20px;
+  box-shadow: 1px 2px 2px 1px rgb(243, 241, 241);
+  background-color: white;
+  margin-left: 25px;
+}
+.leader_img1{
+  border-radius: 10px;
+  margin-left:20px;
+ margin-top: 10px;
+}
+.display_flex{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top:-50px;
+  font-size:15px;
+  margin-left:30px;
+}
+.rahul{
+  margin-right:40px;
+}
+.display_flexnext{
+  display: flex;
+  justify-content: space-evenly;
+  font-size:15px;
+  color: rgba(105, 101, 101, 0.827);
+  margin-top: -30px;
+  margin-left:40px;
+}
+
+.degree{
+width:250px;
+margin-left:20px;
+border-radius:5px;
+border: 3px solid rgb(211, 253, 233);
+}
+.degree1{
+  width:170px;
+margin-left:20px;
+border-radius:5px;
+border: 3px solid rgb(11, 243, 131);
+margin-top:-22px;
+}
+.degree0{
+  width:250px;
+  margin-left:20px;
+  border-radius:5px;
+  border: 3px solid rgb(211, 253, 233);
+  }
+  .degree2{
+    width:100px;
+  margin-left:20px;
+  border-radius:5px;
+  border: 3px solid rgb(11, 243, 131);
+  margin-top:-22px;
+  }
+  .degree-1{
+    width:250px;
+    margin-left:20px;
+    border-radius:5px;
+    border: 3px solid rgb(211, 253, 233);
+    }
+    .degree3{
+      width:210px;
+    margin-left:20px;
+    border-radius:5px;
+    border: 3px solid rgb(11, 243, 131);
+    margin-top:-22px;
+    }
+.view{
+  color: rgb(55, 165, 244);
+  margin-left:300px;
+  margin-top: -10px;
+}
+.arrow{
+  margin-left: 360px;
+  margin-top:-100px;
+  
+}
+.overflow{
+  overflow:y;
+  position: relative;
+}
+
+ .png1{
+  height: 50px;
+  width: 50px;
+  border-radius:50px;
+  background-color: white;
+ }
+.png_img{
+  margin-left:7px;
+  margin-top:10px;
+}
+.png_img1{
+  margin-left:7px;
+  margin-top:10px;
+  border-radius: 50px;
+}
+.campagins{
+  display: flex;
+  margin-left:0px;
+  justify-content: space-evenly;
+}
+.campagins1{
+  display: flex;
+ 
+ 
+}
+.telephone_img{
+  height:40px;
+  width:40px;
+  margin-top:30px;
+  border: 1px dashed white;
+  margin-left:10px;
+}
+.telephone_img2{
+  height:40px;
+  width:40px;
+  margin-top:30px;
+  border: 1px dashed black;
+  margin-left:10px;
+}
+
+
+.telephone{
+  margin-left:0px;
+  margin-top:5px;
+}
+.telephone_div{
+  display:flex;
+  justify-content: space-evenly;
+}
+.today{
+  height:45px;
+  width:80px;
+  border: 1.1px solid rgb(248, 242, 242);
+  border-radius:10px;
+  margin-top: 25px;
+ 
+}
+.today2{
+  height:45px;
+  width:80px;
+  border: 1.1px solid rgb(78, 77, 77);
+  border-radius:10px;
+  margin-top: 25px;
+ 
+}
+.h6{
+  font-size: 18px;
+  margin-top:10px;
+  margin-left:13px;
+}
+
+.Inbound_calls{
+  margin-right:80px;
+margin-top: 30px;
+font-size:19px;
+}
+.Recant{
+  font-size:14px;
+  margin-left:100px ;
+  margin-top:-20px;
+ color:whitesmoke;
+}
+.Recant2{
+  font-size:14px;
+  margin-left:90px ;
+  margin-top:-20px;
+ color:rgb(109, 107, 107);
+}
+.number{
+  margin-left:0px;
+  margin-top:70px;
+  color: rgb(0, 255, 0);
+}
+.next_number{
+  display: flex;
+  justify-content: space-around;
+  margin-top:-10px;
+  
+}
+.number_h1{
+  margin-top:50px ;
+}
+.Screenshot{
+  margin-top:20px;
+}
+.Screenshot2{
+  margin-top:-40px;
+  margin-left:20px;
+}
+.past_24_Hour{
+  color: rgb(168, 168, 168);
+  margin-top:-60px;
+  margin-left:20px;
+}
+.past_24_Hour2{
+  color: rgb(168, 168, 168);
+  margin-top:-30px;
+  margin-left:25px;
+}
+.h2_1{
+  margin-top:18px;
+  margin-left:20px;
+  color: rgb(39, 37, 37);
+font-size:20px;
+}
+.PDF{
+  font-size: 13px;
+  margin-left:5px;
+}
+.div4_start{
+ display: flex;
+ justify-content: space-between;
+ margin-right:10px;
+}
+.Counted_in_Million{
+  margin-left:25px;
+  margin-top: -20px;
+color: rgb(125, 123, 123);
+font-size: 14px;
+} 
+.ALL{
+  display: flex;
+  justify-content: space-evenly;
+  color: rgb(125, 123, 123);
+font-size: 14px;
+}
+.CAMPAIGN{
+  margin-right:450px;
+
+color: rgb(125, 123, 123);
+font-size: 14px;
+} 
+.CAMPAIGN2{
+  margin-right:420px;
+color: rgb(125, 123, 123);
+font-size: 14px;
+} 
+.SESSIONS{
+  margin-right:20px;
+color: rgb(125, 123, 123);
+font-size: 14px;
+}
+.SESSIONS1{
+  margin-right:100px;
+color: rgb(125, 123, 123);
+font-size: 14px;
+}
+.SESSIONS11{
+  margin-right:160px;
+color: rgb(125, 123, 123);
+font-size: 14px;
+}
+.Google{
+  margin-right:400px;
+
+  color: rgb(17, 16, 16);
+  font-size: 15px;
+}
+.number_935{
+  font-size: 15px;
+  color: rgb(255, 0, 51);
+  margin-right:160px;
+}
+.number_9356{
+  font-size: 15px;
+  color: rgb(255, 0, 51);
+  margin-right:200px;
+}
+.number_1256{
+  margin-right:30px;
+color: rgb(11, 11, 11);
+font-size: 14px;
+
+}
+
+.number_125678{
+  margin-right:70px;
+color: rgb(11, 11, 11);
+font-size: 14px;
+
+}
+.number_23{
+  margin-left:-40px;
+  color: rgb(11, 11, 11);
+font-size: 14px;
+
+}
+
+.number_second{
+  font-size: 15px;
+  color: rgb(255, 0, 51);
+  margin-left:-20px;
+}
+.All_display_flex{
+  margin-top: -30px;
+}
+.div22{
+  height:250px;
+  width: 430px;
+  box-shadow: 1px 1px 1px 3px rgb(238, 237, 237);
+  
+  border-radius:30px;
+  margin-left: 600px
+  
+}
+.div33{
+  height:250px;
+  width: 430px;
+  box-shadow: 1px 1px 1px 3px rgb(238, 237, 237);
+  border-radius:30px;
+  color: black;
+}
+.maindiv2{
+  display: flex;
+  justify-content: space-around;
+  font-family: sans-serif;
+  color: white;
+margin-top: 30px;
+color: black;}
+.symbol_2{
+  display: flex;
+  justify-content: space-between;
+  margin-top:-25px;
+  margin-right:30px;
+}
+.png_dot{
+  margin-top: -20px;
+}
+.Statistic{
+  color: rgb(88, 83, 83);
+  margin-left:20px;
+}
+.client{
+  display: flex;
+  margin-left: 20px;
+ 
+  font-size:15px;
+}
+.right_up{
+  margin-top: 13px;
+  margin-left:200px;
+}
+.right_up2{
+  margin-top: 13px;
+  margin-left:180px;
+}
+.right_up1{
+  margin-top: 13px;
+  margin-left:230px;
+}
+.right_up0{
+  margin-top: 13px;
+  margin-left:250px;
+}
+.right_up_1{
+  margin-top: 13px;
+  margin-left:280px;
+}
+
+.Googale_Analatic{
+  color: rgb(4, 179, 254);
+}
+.ITEM{
+  margin-right:200px;
+}
+.project{
+  display: flex;
+  color: rgb(45, 33, 33);
+font-size: 14px;
+
+}.last_img{
+  margin-left:40px;
+}.CALLS{
+  margin-right:70px;
+}.CRP_RANK{
+  margin-right: 40px;
+}.CHART{
+  margin-right: 50PX;
+}.PROGRESS{
+  margin-right: 90px;
+}.Guy_245{
+  margin-left:150px;
+}.Hawkins{
+  margin-left:110px;
+}
